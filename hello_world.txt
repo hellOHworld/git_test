@@ -1,1 +1,7 @@
-I am enjoying my first git & GitHub tutorial. 
+I am enjoying my first git & GitHub tutorial.
+
+I am trying something new without searching it in the Internet first. 
+
+I want to try what happens if I commit this edited file without running add command first.
+
+So, it is not possible to commit any changes without pushing file to staging first.
