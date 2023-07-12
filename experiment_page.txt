@@ -1,1 +1,9 @@
-1. I am running "commit" command for single file.   
+#this page is for recording all the queries that popped in my head. 
+
+1. Can I commit file without adding to staging area?
+        Turns out it's a No. File has to be added to stage before commit.
+
+2. I am running "commit" command for single file. 
+        code: git commit -m "message" <file path>
+
+
